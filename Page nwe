@@ -1,0 +1,16 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Nutribelys</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px; background: #f3f3f3; }
+    h1 { color: #1e90ff; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenidos a Nutribelys</h1>
+  <p>Pronto encontrarás aquí información sobre nutrición, salud y bienestar.</p>
+</body>
+</html>
